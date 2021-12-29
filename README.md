@@ -23,7 +23,7 @@ Sistema web focado no desenvolvimento com React e integração com API de listag
 Para colocar o projeto para rodar, basta seguir o passo a passo fornecido logo abaixo:
 
 1)Abra um terminal e copie este repositório com o comando
-git clone ou use a opção de download.
+git clone https://github.com/Mikaelabrito/pokedex-web.git ou use a opção de download.
 
 2)Entre na pasta web com 
 cd pokedex-web
